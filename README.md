@@ -1,0 +1,4 @@
+Applecoin
+=========
+
+Applecoin is launched.
