@@ -1,4 +1,5 @@
 Applecoin
+-Wallets will be added soon
 ==============
 
 Port=9555
